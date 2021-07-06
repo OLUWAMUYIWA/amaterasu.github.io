@@ -15,10 +15,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- List of Articles
 
-1. Numbered
+1. Bit Manipulation in Rust
 2. List
 
 **Bold** and _Italic_ and `Code` text
